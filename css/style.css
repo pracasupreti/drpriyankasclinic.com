@@ -500,7 +500,7 @@ label {
 
 	border: medium none;
 
-	border-radius: 0;
+	border-radius: 5;
 
 	color: #fff;
 
@@ -518,11 +518,11 @@ label {
 
 	margin-bottom: 0;
 
-	padding: 24px 40px;
+	padding: 10px 15px;
 
 	text-align: center;
 
-	text-transform: uppercase;
+	text-transform: normal;
 
 	touch-action: manipulation;
 
@@ -846,9 +846,9 @@ label {
 
 	width: 50px;
 
-	right: 50px;
+	right: 33px;
 
-	bottom: 77px;
+	bottom: 24px;
 
 	color: #fff;
 
